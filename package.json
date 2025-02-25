@@ -3,9 +3,9 @@
   "version": "1.19.0",
   "license": "MIT",
   "author": {
-    "name": "Bamdad Sabbagh",
-    "email": "hi@bamdad.fr",
-    "url": "https://bamdad.fr"
+    "name": "next",
+    "email": "",
+    "url": ""
   },
   "scripts": {
     "build": "next build && yarn build:post",
